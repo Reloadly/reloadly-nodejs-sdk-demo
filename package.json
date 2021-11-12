@@ -1,12 +1,12 @@
 {
-  "name": "fullstack-todo-app",
+  "name": "reloadly_airtime_app",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "topup.js",
   "scripts": {
-    "watch": "nodemon server.js",
+    "watch": "nodemon topup.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node topup.js"
   },
   "keywords": [],
   "author": "",
