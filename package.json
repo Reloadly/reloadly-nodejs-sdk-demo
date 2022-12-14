@@ -15,7 +15,7 @@
     "@reloadly/reloadly.airtime": "^1.0.6",
     "@reloadly/reloadly.authentication": "^1.0.6",
     "@reloadly/reloadly.core": "^1.0.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^4.1.1",
     "nodemon": "^2.0.12"
   }
