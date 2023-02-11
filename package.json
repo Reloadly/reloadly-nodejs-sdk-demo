@@ -17,6 +17,6 @@
     "@reloadly/reloadly.core": "^1.0.6",
     "express": "^4.17.1",
     "mongodb": "^4.1.1",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.20"
   }
 }
